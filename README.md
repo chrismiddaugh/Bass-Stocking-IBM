@@ -1,0 +1,1 @@
+This R code corresponds to the Middaugh et al. manuscript being publised in the journal SEAFWA. It creates an individual based model that simulates the genetic integration of FLB alleles into an existing LMB population. It is parameterized based on Lake Ouachita, AR. Please see the SEAFWA publication for details. 
